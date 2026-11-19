@@ -2,7 +2,7 @@
 
 Founder of **[Quasi Interactive](https://quasi-interactive.com)** (games) and its software label **[Elyra Software](https://quasi-interactive.com/elyra)**. I design, build and ship complete products: cloud backends in .NET and Azure, web apps, and C++ game tech.
 
-📍 Gold Coast, Australia, relocating to Japan · 💬 English, German, learning Japanese · 🟢 Open to remote work, full-time or contract
+📍 Gold Coast, Australia · 💬 English, German, learning Japanese · 🟢 Open to remote work, full-time or contract
 
 ---
 
